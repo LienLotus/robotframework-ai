@@ -1,0 +1,30 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# Robot Framework results
+results/
+output.xml
+log.html
+report.html
+
+# Screenshots
+screenshots/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs/editors
+.vscode/
+.idea/
+*.swp
+*.swo
